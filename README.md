@@ -14,7 +14,8 @@ Developed by:
 	2018-2019, University of Bucharest
 	
 ```	
-Project details:
+## Project details
+```
 	Required fuse version: FUSE 3
 	Developed and tested on Linux (Arch/Manjaro distros)
 
@@ -44,9 +45,9 @@ Project details:
 		* rm FILE 	[sifs_unlink]
 		* rm -r FOLDER [sifs_rmdir]
 		* Saving changes in the same tar [sifs_destroy]
-		
-References:
-	
+```
+## References
+```
 	* For debugging purposes, we have used the logger function from: 
 		https://github.com/retrohacker/libfuse-template
 	
@@ -58,3 +59,4 @@ References:
 		
 	* The tar format corresponds to:
 		https://www.gnu.org/software/tar/manual/html_node/Standard.html
+```
