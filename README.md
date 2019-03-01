@@ -1,4 +1,5 @@
- _____ _____ ______ _____ 
+```
+_____ _____ ______ _____ 
  / ____|_   _|  ____/ ____|
 | (___   | | | |__ | (___  
  \___ \  | | |  __| \___ \ 
@@ -12,7 +13,7 @@ Developed by:
 	Gr. 241, 2nd Year, Faculty of Mathematics3 and Computer Science	                       
 	2018-2019, University of Bucharest
 	
-	
+```	
 Project details:
 	Required fuse version: FUSE 3
 	Developed and tested on Linux (Arch/Manjaro distros)
